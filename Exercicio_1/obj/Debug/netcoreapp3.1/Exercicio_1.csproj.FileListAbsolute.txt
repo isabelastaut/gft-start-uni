@@ -1,0 +1,13 @@
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.exe
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.deps.json
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.runtimeconfig.json
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.runtimeconfig.dev.json
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.dll
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.pdb
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.csprojAssemblyReference.cache
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.AssemblyInfoInputs.cache
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.AssemblyInfo.cs
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.dll
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.pdb
+C:\Users\staut\source\repos\GftStartUni\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.genruntimeconfig.cache
